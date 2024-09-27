@@ -1,0 +1,1 @@
+ /Users/samreet/Documents/Projects/Flutter/FoodAppDemo/.dart_tool/flutter_build/05779b910b0b2d91ff89a1e49a701f83/native_assets.yaml: 

@@ -1,0 +1,66 @@
+{
+  "location": {
+    "address": "100a Ealing Rd",
+    "time": "24 mins"
+  },
+  "sliders": [
+    {
+      "image": "https://www.cobsbread.com/us/wp-content//uploads/2022/09/Pepperoni-pizza-850x630-1.png",
+      "title": "Special Offer",
+      "description": "50% off on all pizzas this weekend"
+    },
+    {
+      "image":"https://www.foodiecrush.com/wp-content/uploads/2020/05/Penne-Marinara-Sauce-foodiecrush.com-004.jpg",
+      "title": "New Arrivals",
+      "description": "Try our new pasta collection"
+    },
+    {
+      "image": "https://www.allrecipes.com/thmb/P0zUzOzkJGTm9iDvMnzdZ1ua_T8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/19511smoked-salmon-sushi-rollfabeveryday4x3-159a22b4d3ac49fe9a146db94b53c930.jpg",
+      "title": "New Arrivals",
+      "description": "Try our new sushi collection"
+    },
+    {
+      "image":"https://www.foodandwine.com/thmb/_hz1-1jxHmNJxNLZxIjlOs2QQ3E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg",
+      "title": "Combo Deals",
+      "description": "Get a burger and fries combo at just $8"
+    }
+  ],
+  "hits_of_the_week": [
+    {
+      "name": "Pizza",
+      "description": "Two slices of pizza with salami",
+      "price": 12.40,
+      "image": "https://www.cobsbread.com/us/wp-content//uploads/2022/09/Pepperoni-pizza-850x630-1.png"
+    },
+    {
+      "name": "Burger",
+      "description": "Cheese burger with fries",
+      "price": 10.00,
+      "image": "https://www.foodandwine.com/thmb/_hz1-1jxHmNJxNLZxIjlOs2QQ3E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    }
+  ],
+  "categories": ["Salads", "Pizza", "Beverages", "Snacks"],
+  "food_items": [
+    {
+      "name": "Poke with chicken",
+      "price": 47.00,
+      "calories": "325 Kcal",
+      "description": "Famous Hawaaiian dish. Rice pillow with tender chicken breast,mushrooms,lettuce,cherry,tomatoes,seaweed and corn,with unagi sauce",
+      "image": "https://reffen.dk/wp-content/uploads/2024/02/POKPOK-reffen-2024-3.jpg"
+    },
+    {
+      "name": "Cheese burger",
+      "price": 44.00,
+      "calories": "360 Kcal",
+      "description": "Cheese burger with fries",
+      "image": "https://www.foodandwine.com/thmb/_hz1-1jxHmNJxNLZxIjlOs2QQ3E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ultimate-Veggie-Burgers-FT-Recipe-0821-5d7532c53a924a7298d2175cf1d4219f.jpg"
+    },
+    {
+      "name": "Pizza with salami",
+      "price": 40.00,
+      "calories": "315 Kcal",
+      "description": "You will get two slices of pizza with salami cheese",
+      "image": "https://www.cobsbread.com/us/wp-content//uploads/2022/09/Pepperoni-pizza-850x630-1.png"
+    }
+  ]
+}
